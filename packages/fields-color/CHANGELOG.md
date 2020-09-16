@@ -1,5 +1,14 @@
 # @keystonejs/fields-color
 
+## 1.0.4
+
+### Patch Changes
+
+- Updated dependencies [[`b32f006ad`](https://github.com/keystonejs/keystone/commit/b32f006ad283f8aa1911f55bbecac9942f3f9f25), [`6f42b0a9d`](https://github.com/keystonejs/keystone/commit/6f42b0a9d231049f9e7523eb78ec621d9c9d6df9), [`27783bbca`](https://github.com/keystonejs/keystone/commit/27783bbca3b1c5ff05402738c14ffa8db73e542b), [`aa5b4aa26`](https://github.com/keystonejs/keystone/commit/aa5b4aa269eebc6931d30f6eddc315805c1f4fef), [`b6e160678`](https://github.com/keystonejs/keystone/commit/b6e160678b449707261a54a9d565b91663784831)]:
+  - @keystonejs/fields@17.1.3
+  - @arch-ui/button@0.0.22
+  - @arch-ui/fields@3.0.5
+
 ## 1.0.3
 
 ### Patch Changes

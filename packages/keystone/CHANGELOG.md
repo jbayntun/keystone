@@ -1,5 +1,22 @@
 # @keystonejs/keystone
 
+## 16.0.0
+
+### Major Changes
+
+- [`83007be79`](https://github.com/keystonejs/keystone/commit/83007be798ebd751d7eb708cde366dc35999af72) [#3593](https://github.com/keystonejs/keystone/pull/3593) Thanks [@renovate](https://github.com/apps/renovate)! - Updated dependency `pino` to `^6.6.1`. See the pino [release notes](https://github.com/pinojs/pino/releases/v6.0.0) for breaking changes to logging output.
+
+### Patch Changes
+
+- [`7a1f8bbdc`](https://github.com/keystonejs/keystone/commit/7a1f8bbdcdf68c9579e17db77fa826e811abcab4) [#3645](https://github.com/keystonejs/keystone/pull/3645) Thanks [@timleslie](https://github.com/timleslie)! - Removed dependency on `@keystonejs/logger`, which is no longer maintained.
+
+* [`d95010eea`](https://github.com/keystonejs/keystone/commit/d95010eea35f40274f412dad5c2fed6b16ae6c60) [#3663](https://github.com/keystonejs/keystone/pull/3663) Thanks [@Vultraz](https://github.com/Vultraz)! - Enabled schema tracing if APOLLO_KEY is set.
+
+- [`104232785`](https://github.com/keystonejs/keystone/commit/104232785aac856be6a3ba55f8fa0fd8357237ed) [#3576](https://github.com/keystonejs/keystone/pull/3576) Thanks [@renovate](https://github.com/apps/renovate)! - Updated dependency `express-pino-logger` to `^5.0.0`.
+
+- Updated dependencies [[`b32f006ad`](https://github.com/keystonejs/keystone/commit/b32f006ad283f8aa1911f55bbecac9942f3f9f25), [`6f42b0a9d`](https://github.com/keystonejs/keystone/commit/6f42b0a9d231049f9e7523eb78ec621d9c9d6df9), [`27783bbca`](https://github.com/keystonejs/keystone/commit/27783bbca3b1c5ff05402738c14ffa8db73e542b), [`b6e160678`](https://github.com/keystonejs/keystone/commit/b6e160678b449707261a54a9d565b91663784831)]:
+  - @keystonejs/fields@17.1.3
+
 ## 15.0.0
 
 ### Major Changes
