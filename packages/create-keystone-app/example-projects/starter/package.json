@@ -17,12 +17,12 @@
     "create-tables": "cross-env CREATE_TABLES=true keystone create-tables"
   },
   "dependencies": {
-    "@keystonejs/adapter-mongoose": "^9.0.6",
+    "@keystonejs/adapter-mongoose": "^10.0.0",
     "@keystonejs/app-admin-ui": "^7.3.5",
     "@keystonejs/app-graphql": "^6.1.1",
     "@keystonejs/auth-password": "^5.1.14",
-    "@keystonejs/fields": "^17.1.2",
-    "@keystonejs/keystone": "^15.0.0",
+    "@keystonejs/fields": "^20.0.0",
+    "@keystonejs/keystone": "^16.0.0",
     "cross-env": "^7.0.2"
   }
 }
