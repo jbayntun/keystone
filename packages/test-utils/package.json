@@ -9,9 +9,9 @@
   },
   "dependencies": {
     "@keystonejs/adapter-knex": "^11.0.5",
-    "@keystonejs/adapter-mongoose": "^9.0.6",
+    "@keystonejs/adapter-mongoose": "^10.0.1",
     "@keystonejs/app-graphql": "^6.1.2",
-    "@keystonejs/keystone": "^15.0.0",
+    "@keystonejs/keystone": "^16.0.0",
     "express": "^4.17.1",
     "mongodb-memory-server-core": "^6.7.5",
     "supertest-light": "^1.0.3"
