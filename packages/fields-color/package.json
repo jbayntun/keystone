@@ -13,7 +13,7 @@
     "@arch-ui/popout": "^0.0.21",
     "@babel/runtime": "^7.11.2",
     "@emotion/core": "^10.0.35",
-    "@keystonejs/fields": "^17.1.1",
+    "@keystonejs/fields": "^19.0.0",
     "react-color": "^2.18.1"
   },
   "peerDependencies": {
