@@ -18,7 +18,7 @@
     "@keystonejs/adapter-knex": "^11.0.5",
     "@keystonejs/adapter-mongoose": "^9.0.6",
     "@keystonejs/fields": "^17.1.2",
-    "@keystonejs/fields-content": "^8.0.4",
+    "@keystonejs/fields-content": "^9.0.1",
     "node-fetch": "^2.6.1",
     "pluralize": "^7.0.0",
     "query-string": "^6.13.2",
