@@ -20,7 +20,7 @@
     "@keystonejs/adapter-mongoose": "^9.0.6",
     "@keystonejs/app-admin-ui": "^7.3.5",
     "@keystonejs/app-graphql": "^6.1.1",
-    "@keystonejs/keystone": "^15.0.0",
+    "@keystonejs/keystone": "^16.0.0",
     "cross-env": "^7.0.2"
   }
 }
