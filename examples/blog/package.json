@@ -28,7 +28,7 @@
     "@keystonejs/fields": "^17.1.2",
     "@keystonejs/fields-authed-relationship": "^1.0.12",
     "@keystonejs/fields-markdown": "^5.2.8",
-    "@keystonejs/fields-oembed": "^2.1.2",
+    "@keystonejs/fields-oembed": "^3.0.0",
     "@keystonejs/fields-wysiwyg-tinymce": "^5.3.9",
     "@keystonejs/file-adapters": "^7.0.6",
     "@keystonejs/keystone": "^15.0.0",
